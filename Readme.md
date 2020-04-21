@@ -1,8 +1,4 @@
-[![Quality gate](https://rahulv-local-sonar-cdae80cc.localhost.run/api/project_badges/quality_gate?project=local-demo)](https://rahulv-local-sonar-cdae80cc.localhost.run/dashboard?id=local-demo)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ab9dfc26f4c5a21a19bd/maintainability)](https://codeclimate.com/github/rverma-uc/code-climate-demo/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/ab9dfc26f4c5a21a19bd/test_coverage)](https://codeclimate.com/github/rverma-uc/code-climate-demo/test_coverage)
 
 
-This is a demo app to test integration with various dev tools
-
-- Setup
-  -- 
-  - Install `ngrok` to route badge and `sonarqube` requets to local instance 
+This demo app tests integration with Code climate.
